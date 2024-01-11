@@ -8,3 +8,4 @@ php -f /home/mediexam/medicalwallah.com/admin/time-command-shiddle.php > /dev/nu
 
 
 while : ; do sleep 1 ; /usr/local/bin/php /home/ptl4606q9941/public_html/dev.pvtoev.com.au/index.php || break ; done
+while : ; do sleep 1 ; /usr/local/bin/php /home/ptl4606q9941/app.powermanlocals.com/public/cronjob.php || break ; done
